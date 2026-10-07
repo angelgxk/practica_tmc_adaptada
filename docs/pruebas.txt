@@ -1,0 +1,27 @@
+CASOS DE PRUEBA SUGERIDOS PARA EL REPORTE
+
+PRUEBA 1 - COMPILACIÓN EXITOSA
+AGREGAR 500 g harina
+AGREGAR 250 ml agua
+MEZCLAR harina agua
+PICAR cebolla
+CORTAR tomate
+CALENTAR 180 C
+HORNEAR 180 C
+SERVIR
+
+PRUEBA 2 - ERROR SINTÁCTICO
+AGREGAR harina
+MEZCLAR
+CALENTAR abc C
+SERVIR
+
+PRUEBA 3 - CONJUNTOS MIXTOS
+A = 1, -2, 3.5, hola
+B = 2, 3.5, mundo
+
+PRUEBA 4 - DOS ALFABETOS
+Σ1 = {a,b}
+Σ2 = {0,1}
+
+Ambos deben mostrar ε y todas las cadenas hasta longitud 3.
